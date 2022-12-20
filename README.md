@@ -1,1 +1,2 @@
-# WebCssGenerator
+# CssGenerator
+Дипломна робота Дерелюка Тимура ІПЗ-41 
