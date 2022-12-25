@@ -44,7 +44,7 @@ export default function DropShadow() {
                 <div className="preview_wraper">
                     <span>Preview</span>
                     <div className='preview_box drop_preview'>
-                        <img style={{ filter: `drop-shadow(${dropShadowHorizontal} ${dropVertical} ${dropshadowblur} ${dropShadowColor})` }} src="/images/React_logo.png" />
+                        <img style={{ filter: `drop-shadow(${dropShadowHorizontal} ${dropVertical} ${dropshadowblur} ${dropShadowColor})` }} src="/images/React_logo.png" alt="react-logo" />
                     </div>
                 </div>
                 <div className="copy_code_wraper">
