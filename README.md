@@ -1,2 +1,1 @@
-# CssGenerator
-Дипломна робота Дерелюка Тимура ІПЗ-41 
+test commit
